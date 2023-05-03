@@ -25,7 +25,7 @@ At some point, we may wish to update the app. We may also wish to stop providing
 # Contact
 
 - [Support Server](https://discord.gg/aresdev)
-- If above links doesn't work mail us on helparesbot@gmail.com
+- If above links don't work mail us on helparesbot@gmail.com
 
 **Thank you for using our service**
 
